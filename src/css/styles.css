@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("https://source.unsplash.com/1920x1080/?landscape&quot");
+    background: url("/src/image/previsao-do-tempo.jpg");
     background-size: cover;
     flex-direction: column;
     gap: 20px;
